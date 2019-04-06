@@ -13,6 +13,6 @@ https://twitter.com/MasterP65756486 <br>
 
 *ERRORS*<br>
 In case of Errors Missing Module "modulename":<br>
-open Your Python installation folder, go to Scripts, shift + rightclick somewhere empty in the folder <br>
+open Your Python installation folder, go to Scripts, shift + rightclick somewhere empty in the folder and click "Open Command Prompt Here" <br>
 and then write: pip.exe install modulename <br>
 for all the module names.
