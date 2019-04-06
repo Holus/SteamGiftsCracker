@@ -1,4 +1,4 @@
-This is a PoC for cracking Steam GiftCards,\n
+This is a PoC for cracking Steam GiftCards,<br>
 ***THIS IS FOR EDUCATIONAL PURPOSES ONLY***
 First step is to create a cool_proxies.txt with inside all the proxies,
 go on 2captcha and load some balance
