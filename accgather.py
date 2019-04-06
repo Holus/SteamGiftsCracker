@@ -15,6 +15,8 @@ from win32process import CREATE_NO_WINDOW
 import threading
 import sys, os
 
+########TODO: UPDATE TO V3 Recaptcha 2Captcha API.
+
 def CheckLoop():
     #go on recaptcha, fill balance and put api key down here
     rekey = ""
